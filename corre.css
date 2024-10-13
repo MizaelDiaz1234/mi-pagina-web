@@ -1,0 +1,43 @@
+body{
+    color :rgb(79, 42, 165);
+    font-size: 30px;
+    margin-top: 40px;
+    padding-top: 30px;
+    background-image: url(https://i.pinimg.com/originals/1f/99/81/1f9981080a58aa85b83f3bd455b73ad9.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    font-size: 25px;
+    text-align: left; 
+    color: rgb(17, 0, 255);
+}
+h1 {
+    font-size: 80px;
+    text-align: center; 
+    color: rgb(255, 0, 0);
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-blue-lines-futuristic-technology-background-backgroundblue-backgroundflow-light-image_64589.jpg);
+}
+h2 {
+    text-align: center; 
+    font-size: 60px;
+    color: rgb(26, 255, 0);
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-blue-lines-futuristic-technology-background-backgroundblue-backgroundflow-light-image_64589.jpg);
+}
+h3, h4, h5 {
+    font-size: 40px;
+    text-align: center; 
+    color: rgb(225, 4, 249);
+    background-image: url(https://img.lovepik.com/background/20211022/large/lovepik-abstract-blue-background-image_401898761.jpg);
+}
+li {
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+    list-style-type	: none;
+    list-style-image: url("gojo.jpg");
+   
+}
+img {
+    display: block; 
+    margin: 0 auto; 
+}
